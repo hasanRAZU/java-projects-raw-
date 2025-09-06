@@ -9,7 +9,7 @@ It uses a recipe database stored in a text file and suggests what dishes you can
 
 	🥘 Suggests up to 10 best recipes ranked by ingredient match.
 
-	✅ Shows only recipes where 50% or more ingredients match.
+	✅ Shows only recipes where 20% or more ingredients match.
 
 	📝 Displays:
 
@@ -23,6 +23,8 @@ SmartRecipeRecommender/
 │
 ├── SmartRecipeRecommenderFinal.java   # Main program
 ├── README.md                          # Project documentation
+├── Screenshot                         
+    └── Recipe.txt                     # Screenshots
 └── RecipeFiles/
     └── Recipe.txt                     # Recipe database
 
@@ -70,4 +72,4 @@ Support for multiple cuisines beyond Bangladeshi food.
 
 👨‍💻 Author
 
-Developed by Monjurul Hasan
+Developed by Md. Monjurul Hasan Razu
