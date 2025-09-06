@@ -1,0 +1,233 @@
+Recipe: Bhuna Khichuri
+Ingredients: rice, lentils, onion, garlic, ginger, oil, cumin, turmeric, salt, chili
+
+Recipe: Begun Bharta
+Ingredients: eggplant, mustard oil, onion, garlic, chili, salt
+
+Recipe: Daal
+Ingredients: lentils, onion, garlic, turmeric, oil, salt
+
+Recipe: Ilish Bhapa
+Ingredients: hilsa fish, mustard paste, mustard oil, chili, turmeric, salt, banana leaf
+
+Recipe: Chicken Curry
+Ingredients: chicken, onion, garlic, ginger, tomato, oil, chili, turmeric, cumin, salt
+
+Recipe: Aloo Bharta
+Ingredients: potato, mustard oil, chili, salt, onion
+
+Recipe: Panta Bhat
+Ingredients: rice, water, salt, green chili, mustard oil
+
+Recipe: Pulao
+Ingredients: rice, oil, cumin, bay leaf, cinnamon, cardamom, salt
+
+Recipe: Kacchi Biryani
+Ingredients: mutton, rice, yogurt, onion, garlic, ginger, oil, saffron, salt, chili
+
+Recipe: Morog Polao
+Ingredients: chicken, rice, yogurt, onion, garlic, ginger, oil, saffron, salt, cardamom
+
+Recipe: Shorshe Ilish
+Ingredients: hilsa fish, mustard paste, mustard oil, green chili, turmeric, salt
+
+Recipe: Bhuna Khichuri
+Ingredients: rice, lentils, onion, garlic, ginger, oil, cumin, turmeric, salt, chili
+
+Recipe: Chingri Malai Curry
+Ingredients: shrimp, coconut milk, onion, garlic, ginger, oil, turmeric, salt, chili
+
+Recipe: Macher Jhol
+Ingredients: fish, potato, tomato, onion, garlic, turmeric, salt, chili, mustard oil
+
+Recipe: Shorshe Bata Maach
+Ingredients: fish, mustard paste, mustard oil, green chili, turmeric, salt
+
+Recipe: Aloo Bhorta
+Ingredients: potato, mustard oil, chili, salt, onion
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Beguni
+Ingredients: eggplant, chickpea flour, turmeric, salt, oil
+
+Recipe: Chotpoti
+Ingredients: peas, potato, onion, green chili, mustard oil, salt, spices
+
+Recipe: Fuchka
+Ingredients: semolina, flour, tamarind, potato, chickpea, spices
+
+Recipe: Samosa
+Ingredients: flour, potato, onion, peas, spices, oil
+
+Recipe: Pithas
+Ingredients: rice flour, jaggery, coconut, sesame, oil
+
+Recipe: Bhapa Pitha
+Ingredients: rice flour, jaggery, coconut, oil
+
+Recipe: Chitoi Pitha
+Ingredients: rice flour, water, salt, oil
+
+Recipe: Patishapta
+Ingredients: rice flour, jaggery, coconut, khoya, oil
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Shutki Bhorta
+Ingredients: dried fish, mustard oil, chili, salt, onion
+
+Recipe: Lau Chingri
+Ingredients: bottle gourd, shrimp, onion, garlic, turmeric, salt, oil
+
+Recipe: Doi Maach
+Ingredients: fish, yogurt, onion, garlic, turmeric, salt, mustard oil
+
+Recipe: Macher Kalia
+Ingredients: fish, onion, garlic, ginger, tomato, oil, chili, turmeric, salt
+
+Recipe: Bhuna Khichuri
+Ingredients: rice, lentils, onion, garlic, ginger, oil, cumin, turmeric, salt, chili
+
+Recipe: Aloo Bhorta
+Ingredients: potato, mustard oil, chili, salt, onion
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Beguni
+Ingredients: eggplant, chickpea flour, turmeric, salt, oil
+
+Recipe: Chotpoti
+Ingredients: peas, potato, onion, green chili, mustard oil, salt, spices
+
+Recipe: Fuchka
+Ingredients: semolina, flour, tamarind, potato, chickpea, spices
+
+Recipe: Samosa
+Ingredients: flour, potato, onion, peas, spices, oil
+
+Recipe: Pithas
+Ingredients: rice flour, jaggery, coconut, sesame, oil
+
+Recipe: Bhapa Pitha
+Ingredients: rice flour, jaggery, coconut, oil
+
+Recipe: Chitoi Pitha
+Ingredients: rice flour, water, salt, oil
+
+Recipe: Patishapta
+Ingredients: rice flour, jaggery, coconut, khoya, oil
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Shutki Bhorta
+Ingredients: dried fish, mustard oil, chili, salt, onion
+
+Recipe: Lau Chingri
+Ingredients: bottle gourd, shrimp, onion, garlic, turmeric, salt, oil
+
+Recipe: Doi Maach
+Ingredients: fish, yogurt, onion, garlic, turmeric, salt, mustard oil
+
+Recipe: Macher Kalia
+Ingredients: fish, onion, garlic, ginger, tomato, oil, chili, turmeric, salt
+
+Recipe: Bhuna Khichuri
+Ingredients: rice, lentils, onion, garlic, ginger, oil, cumin, turmeric, salt, chili
+
+Recipe: Aloo Bhorta
+Ingredients: potato, mustard oil, chili, salt, onion
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Beguni
+Ingredients: eggplant, chickpea flour, turmeric, salt, oil
+
+Recipe: Chotpoti
+Ingredients: peas, potato, onion, green chili, mustard oil, salt, spices
+
+Recipe: Fuchka
+Ingredients: semolina, flour, tamarind, potato, chickpea, spices
+
+Recipe: Samosa
+Ingredients: flour, potato, onion, peas, spices, oil
+
+Recipe: Pithas
+Ingredients: rice flour, jaggery, coconut, sesame, oil
+
+Recipe: Bhapa Pitha
+Ingredients: rice flour, jaggery, coconut, oil
+
+Recipe: Chitoi Pitha
+Ingredients: rice flour, water, salt, oil
+
+Recipe: Patishapta
+Ingredients: rice flour, jaggery, coconut, khoya, oil
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Shutki Bhorta
+Ingredients: dried fish, mustard oil, chili, salt, onion
+
+Recipe: Lau Chingri
+Ingredients: bottle gourd, shrimp, onion, garlic, turmeric, salt, oil
+
+Recipe: Doi Maach
+Ingredients: fish, yogurt, onion, garlic, turmeric, salt, mustard oil
+
+Recipe: Macher Kalia
+Ingredients: fish, onion, garlic, ginger, tomato, oil, chili, turmeric, salt
+
+Recipe: Bhuna Khichuri
+Ingredients: rice, lentils, onion, garlic, ginger, oil, cumin, turmeric, salt, chili
+
+Recipe: Aloo Bhorta
+Ingredients: potato, mustard oil, chili, salt, onion
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Beguni
+Ingredients: eggplant, chickpea flour, turmeric, salt, oil
+
+Recipe: Chotpoti
+Ingredients: peas, potato, onion, green chili, mustard oil, salt, spices
+
+Recipe: Fuchka
+Ingredients: semolina, flour, tamarind, potato, chickpea, spices
+
+Recipe: Samosa
+Ingredients: flour, potato, onion, peas, spices, oil
+
+Recipe: Pithas
+Ingredients: rice flour, jaggery, coconut, sesame, oil
+
+Recipe: Bhapa Pitha
+Ingredients: rice flour, jaggery, coconut, oil
+
+Recipe: Chitoi Pitha
+Ingredients: rice flour, water, salt, oil
+
+Recipe: Patishapta
+Ingredients: rice flour, jaggery, coconut, khoya, oil
+
+Recipe: Chingri Bhorta
+Ingredients: shrimp, mustard oil, chili, salt, onion
+
+Recipe: Shutki Bhorta
+Ingredients: dried fish, mustard oil, chili, salt, onion
+
+Recipe: Lau Chingri
+Ingredients: bottle gourd, shrimp, onion, garlic, turmeric, salt, oil
+
+Recipe: Doi Maach
+Ingredients: fish, yogurt, onion, garlic, turmeric, salt, mustard oil
+
+Recipe: Macher Kalia
+Ingredients: fish, onion, garlic, ginger, tomato, oil, chili, turmeric, salt
